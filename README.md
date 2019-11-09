@@ -1,3 +1,3 @@
 # Prueba_Rep
 prueba de readme.md
-reedicion 2
+reedicion 2.
